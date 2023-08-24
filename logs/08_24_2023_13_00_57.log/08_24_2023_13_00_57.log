@@ -1,0 +1,6 @@
+[ 2023-08-24 13:00:57,418 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-24 13:00:57,424 ] 187 werkzeug - INFO -  * Debugger PIN: 105-007-920
+[ 2023-08-24 13:01:12,726 ] 8 root - INFO - Testing
+[ 2023-08-24 13:01:12,727 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Aug/2023 13:01:12] "GET / HTTP/1.1" 200 -
+[ 2023-08-24 13:01:13,284 ] 187 werkzeug - INFO - 127.0.0.1 - - [24/Aug/2023 13:01:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-08-24 13:20:50,027 ] 187 werkzeug - INFO -  * Detected change in 'c:\\users\\hp\\onedrive\\desktop\\ml_project\\ml_pipeline_project\\src\\exception.py', reloading
